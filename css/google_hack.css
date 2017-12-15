@@ -1,0 +1,69 @@
+.container {
+  /*column-count: 5;*/
+  height: 100px;
+  /*margin: 10px;*/
+  width: 100%;
+  text-align: center;
+}
+
+.left-box {
+  width: 50%;
+  text-align: left;
+  float: left;
+}
+
+.right-box {
+  text-align: right;
+  width: 50%;
+  float: right;
+}
+
+.dots {
+  border: solid;
+  height: 50px;
+  background-color: #ffffe6;
+  width: 20%;
+}
+
+.bell {
+  border: solid;
+  height: 50px;
+  background-color: #ffffe6;
+  width: 20%;
+}
+
+.user {
+  border: solid;
+  height: 50px;
+  background-color: #ffffe6;
+  width: 20%;
+}
+
+.google_header {
+  text-align: center;
+}
+
+.options {
+  /*border: solid;*/
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+}
+
+.box1 {
+  border: solid;
+  height: 50px;
+  width: 200px;
+}
+
+.box2 {
+  border: solid;
+  height: 50px;
+  width: 200px;
+}
+
+.search_bar {
+  text-align: center;
+}
